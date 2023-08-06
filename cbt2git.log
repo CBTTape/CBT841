@@ -1,0 +1,11 @@
+2023-08-06 07:54:10.166299 - Initialized conversion of CBT841
+2023-08-06 07:54:10.214564 - Received CBT.V505.FILE841.PDS from FILE841.XMI 
+2023-08-06 07:54:10.217012 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE841.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:54:10.218152 - Found $$NOTE01.txt (text/plain) in CBT.V505.FILE841.PDS, moved to PDS/$$NOTE01
+2023-08-06 07:54:10.219367 - Found $COPYRTE.txt (text/plain) in CBT.V505.FILE841.PDS, moved to PDS/$COPYRTE
+2023-08-06 07:54:10.220389 - Found $DOC.txt (text/plain) in CBT.V505.FILE841.PDS, moved to PDS/$DOC
+2023-08-06 07:54:10.221334 - Found @FILE841.txt (text/plain) in CBT.V505.FILE841.PDS, moved to PDS/@FILE841
+2023-08-06 07:54:10.222343 - Found ANCHOR.txt (text/plain) in CBT.V505.FILE841.PDS, moved to PDS/ANCHOR
+2023-08-06 07:54:10.223307 - Found CACEMCKI.txt (text/plain) in CBT.V505.FILE841.PDS, moved to PDS/CACEMCKI
+2023-08-06 07:54:10.224231 - Found IEFSSNXX.txt (text/plain) in CBT.V505.FILE841.PDS, moved to PDS/IEFSSNXX
+2023-08-06 07:54:10.225145 - Found USRANC01.txt (text/plain) in CBT.V505.FILE841.PDS, moved to PDS/USRANC01
